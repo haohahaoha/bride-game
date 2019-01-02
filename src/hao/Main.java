@@ -10,7 +10,7 @@ class Windows extends JFrame {
     }
     public void show0(){
         this.setSize(1200,800);
-        this.setTitle("打大鸟");
+        this.setTitle("打小鸟");
         m.Pao();
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setVisible(true);
